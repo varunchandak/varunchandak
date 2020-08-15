@@ -1,5 +1,5 @@
+#Hey there, I am Varun ! <img src="https://github.com/varunchandak/varunchandak/blob/master/hi.gif">
 
-### Hey there, I am Varun ! 👋
 ---
 
 ## About Me
@@ -11,14 +11,16 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 * Linux
 * Bash
 * Github
-* GCP
 * Ansible
 * Terraform
 * Jenkins
+* ELK
+* Slack
 
 ---
 ## Cloud Experience
 * AWS
+    * a
 * GCP
 
 ---
@@ -79,7 +81,10 @@ Roles and Responsibilities:
 * Handling multiple instances, volumes and snapshots within a single AWS Console.
 * Managing capacity of storage and NAS, such as FreeNAS, NexentaStor and related activities such as Disk Mirroring, scheduling jobs, etc.
 
-
+### Education
+B. Tech (IT) | PIET, Jaipur | 2007 – 2011
+HSC Science | Hindustani Kendriya Vidyalaya | 2006 – 2007
+SSC | BRCM Public School | 2003 – 2004
 
 
 Here are some ideas to get you started:
