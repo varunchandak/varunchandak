@@ -24,11 +24,10 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 
 ---
 ## Certifications
-<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/1.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/2.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/3.png" width="auto" height="100"><br>
-<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/4.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/5.png" width="auto" height="100"><br>
-<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/6.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/7.png" width="auto" height="100"><br>
+<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/1.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/2.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/3.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/4.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/5.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/6.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/7.png" width="auto" height="100">
+<br>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="auto" height="100">
-
+<br>
 
 <!--
 
