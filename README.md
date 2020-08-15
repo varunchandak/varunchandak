@@ -1,6 +1,4 @@
-# Hey there, I am Varun ! <img src="https://github.com/varunchandak/varunchandak/blob/master/hi.gif" width="30px">
-
----
+# Hey there, I am Varun ! <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hi.gif" width="30px">
 
 ## About Me
 Professional Cloud and DevOps Engineer having extensive experience on cloud technologies and strong linux skills with good experience in bash scripting with a strong ability to work with minimal supervision. Like to work in an environment which will allow me to put my skills in use for the greater good.  Looking forward to gain experience on new technologies while presenting me with new challenges that expand upon my established skill set.
@@ -8,38 +6,32 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 ---
 
 ## Tech Stack
-* Linux
-* Bash
-* Github
-* Ansible
-* Terraform
-* Jenkins
-* ELK
-* Slack
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ubuntu.png" width="30px" alt="Ubuntu"> <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/centos.png" width="30px" alt="CentOS"> <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/redhat.png" width="30px" alt="RedHat">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/bash.png" width="30px" alt="Bash">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/github.png" width="30px" alt="Github">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ansible.png" width="30px" alt="Ansible">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/terraform.png" width="30px" alt="Terraform">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/jenkins.png" width="30px" alt="Jenkins">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/elk.png" width="30px" alt="ELK">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/slack.png" width="30px" alt="Slack">
+
+<!--
 
 ---
 ## Cloud Experience
-* AWS
-    * a
-* GCP
+<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/aws/_GroupIcons/AWS-Cloud-alt_light-bg@4x.png" width="30px" alt="AWS">
+<br>
+<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/gcp/AWS-Cloud-alt_light-bg@4x.png" width="30px" alt="AWS">
+
+
 
 ---
 ## Certifications
 ### AWS
-<img src="https://github.com/varunchandak/varunchandak/blob/master/certs/aws-certification-badges-v1.png" width="auto" height="300">
+<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/aws-certification-badges-v1.png" width="auto" height="300">
 
 ### GCP
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="174" height="174">
-
-<!--
-* AWS Certified DevOps Engineer - Professional (EGSTC7Z1K1F1Q139)
-* AWS Certified Solutions Architect - Professional (SL3EL6V111EEQX9Y)
-* AWS Certified Solutions Architect - Associate (7PX9XV4K2MBQ14KX)
-* AWS Certified SysOps Administrator– Associate (KP78TB1KCM4E1D5V)
-* AWS Certified Developer – Associate (YHVWWVWK2BR1QHCE)
-* Google Certified Associate Cloud Engineer (https://bit.ly/2l3Atuy)
-* Cisco Certified Network Associate
-* Redhat Certified Engineer
 
 
 
