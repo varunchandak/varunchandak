@@ -19,6 +19,7 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/jenkins.png" width="30px" alt="Jenkins">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/elk.png" width="30px" alt="ELK">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/slack.png" width="30px" alt="Slack">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/google.png" width="30px" alt="Google">
 
 <!--
 
