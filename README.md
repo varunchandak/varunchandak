@@ -13,7 +13,7 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 ---
 
 ## Tech Stack
-* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ubuntu.png" align="center" width="30px" title="Ubuntu"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/centos.png" width="30px" title="CentOS"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/redhat.png" width="30px" title="RedHat">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ubuntu.png" align="center" width="30px" title="Ubuntu"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/centos.png" align="center" width="30px" title="CentOS"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/redhat.png" align="center" width="30px" title="RedHat">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/bash.png" align="center" width="30px" title="Bash">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/github.png" align="center" width="30px" title="Github">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ansible.png" align="center" width="30px" title="Ansible">
