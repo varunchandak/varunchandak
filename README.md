@@ -9,13 +9,6 @@
 ## About Me
 Professional Cloud and DevOps Engineer having extensive experience on cloud technologies and strong linux skills with good experience in bash scripting with a strong ability to work with minimal supervision. Like to work in an environment which will allow me to put my skills in use for the greater good.  Looking forward to gain experience on new technologies while presenting me with new challenges that expand upon my established skill set.
 
-## What do I do ?
-a
-
-## Soft Skills
-a
-
-## Hobbies
 
 ---
 
@@ -73,6 +66,13 @@ a
 
 <!--
 
+## What do I do ?
+a
+
+## Soft Skills
+a
+
+## Hobbies
 ---
 
 ## Experience
