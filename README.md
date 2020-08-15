@@ -8,20 +8,26 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 ---
 
 ## Tech Stack
-* 
+* Linux
+* Bash
+* Github
+* GCP
+* Ansible
+* Terraform
+* Jenkins
 
 ---
 ## Cloud Experience
-* 
+* AWS
+* GCP
 
 ---
 ## Certifications
 ### AWS
-![AWS Certifications](./aws-certification-badges-v1.png "AWS Certifications")
+<img src="./aws-certification-badges-v1.png" width="auto" height="300">
 
 ### GCP
-![https://www.credential.net/e626bee3-4154-48e0-aa45-b009fde5c836](./gcp-associate-cloud-engineer.png "GCP Certifications")
-
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="174" height="174">
 
 <!--
 * AWS Certified DevOps Engineer - Professional (EGSTC7Z1K1F1Q139)
