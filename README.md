@@ -1,4 +1,4 @@
-#Hey there, I am Varun ! <img src="https://github.com/varunchandak/varunchandak/blob/master/hi.gif">
+#Hey there, I am Varun ! <img src="https://github.com/varunchandak/varunchandak/blob/master/hi.gif" width="30px">
 
 ---
 
