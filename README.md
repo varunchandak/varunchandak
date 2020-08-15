@@ -1,7 +1,7 @@
 
 ### Hey there, I am Varun ! 👋
 ---
-<!--
+
 ## About Me
 Professional Cloud and DevOps Engineer having extensive experience on cloud technologies and strong linux skills with good experience in bash scripting with a strong ability to work with minimal supervision. Like to work in an environment which will allow me to put my skills in use for the greater good.  Looking forward to gain experience on new technologies while presenting me with new challenges that expand upon my established skill set.
 
@@ -16,6 +16,14 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 
 ---
 ## Certifications
+### AWS
+![AWS Certifications](./aws-certification-badges-v1.png "AWS Certifications")
+
+### GCP
+![https://www.credential.net/e626bee3-4154-48e0-aa45-b009fde5c836](./gcp-associate-cloud-engineer.png "GCP Certifications")
+
+
+<!--
 * AWS Certified DevOps Engineer - Professional (EGSTC7Z1K1F1Q139)
 * AWS Certified Solutions Architect - Professional (SL3EL6V111EEQX9Y)
 * AWS Certified Solutions Architect - Associate (7PX9XV4K2MBQ14KX)
