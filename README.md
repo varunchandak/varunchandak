@@ -1,5 +1,10 @@
 # Hey there, I am Varun ! <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hi.gif" width="30px">
 
+[![Twitter Badge](https://img.shields.io/badge/-@Varun&nbsp;Chandak-1ca0f1?style=flat&labelColor=black&logo=twitter&logoColor=blue&link=https://twitter.com/kintuparantu)](https://twitter.com/kintuparantu)
+[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Chandak-blue?style=flat&labelColor=black&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/roshan-patil95/)](https://www.linkedin.com/in/roshan-patil95/) 
+[![Github Badge](https://img.shields.io/github/followers/varunchandak?label=varunchandak&logo=github&style=flat)](https://github.com/varunchandak)
+[![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/)
+
 ## About Me
 Professional Cloud and DevOps Engineer having extensive experience on cloud technologies and strong linux skills with good experience in bash scripting with a strong ability to work with minimal supervision. Like to work in an environment which will allow me to put my skills in use for the greater good.  Looking forward to gain experience on new technologies while presenting me with new challenges that expand upon my established skill set.
 
