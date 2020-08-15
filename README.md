@@ -24,7 +24,7 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 ---
 ## Certifications
 ### AWS
-<img src="https://github.com/varunchandak/varunchandak/blob/master/certs/aws-certification-badges-v1.png" width="auto" height="300">
+<img src="./certs/aws-certification-badges-v1.png" width="auto" height="300">
 
 ### GCP
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="174" height="174">
