@@ -59,16 +59,28 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 
 ---
 ## Certifications
-<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/1.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/2.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/3.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/4.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/5.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/6.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/7.png" width="auto" height="100">
+<a href="https://www.youracclaim.com/badges/5cb330b8-dcc2-4ed7-859d-608995a034d1/public_url"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/1.png" width="auto" height="100" title="AWS Certified Developer Associate"></a>
+<a href="https://www.youracclaim.com/badges/86914455-c008-4a18-9e57-f450e68081bd/public_url"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/2.png" width="auto" height="100" title="AWS Certified Solutions Architect Associate"></a>
+<a href="https://www.youracclaim.com/badges/2e703b86-b2d5-4a6c-af17-16e3111e57ef/public_url"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/3.png" width="auto" height="100" title="AWS Certified SysOps Administrator Associate"></a>
+<a href="https://www.youracclaim.com/badges/989851af-4675-4940-a007-0f3d7cc22dad/public_url"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/4.png" width="auto" height="100" title="AWS Certified Solutions Architect Professional"></a>
+<a href="https://www.youracclaim.com/badges/ba962e84-fc01-409f-a475-efd855c693c6/public_url"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/5.png" width="auto" height="100" title="AWS Certified DevOps Engineer Professional"></a>
+<a href="https://www.youracclaim.com/badges/ef1eeaf2-b35c-40b7-b18b-35a2e2e4ad97/public_url"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/6.png" width="auto" height="100" title="AWS Certified Security Specialty"></a>
+<a href="https://www.youracclaim.com/badges/f5b29437-f2c9-4859-8a5e-c1efd93d966f/public_url"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/7.png" width="auto" height="100" title="AWS Certified Advanced Networking Specialty"></a>
 <br>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="auto" height="100">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="auto" height="100" title="Associate Cloud Engineer">
 <br>
+
+## Education
+| Qualification | Institution | Year |
+|   --  |   --  |   --  |
+| B. Tech (Information Technology) | PIET, Jaipur, Rajasthan | 2007 - 2011 |
+| Higher Secondary Certificate (Science) | Hindustani Kendriya Vidyalaya, Guwahati, Assam | 2006 – 2007 |
+| Secondary School Certificate | BRCM Public School, Bahl, Haryana | 2003 – 2004 |
 
 ## My Github Stats
 ![My Github Stats](https://gitstats.vrnchndk.in/api?username=varunchandak&count_private=true&show_icons=true)
 
 [![Top Langs](https://gitstats.vrnchndk.in/api/top-langs/?username=varunchandak)](https://github.com/varunchandak/github-readme-stats)
-
 
 
 <!--
@@ -80,6 +92,7 @@ a
 a
 
 ## Hobbies
+a
 ---
 
 ## Experience
@@ -120,10 +133,7 @@ Roles and Responsibilities:
 * Handling multiple instances, volumes and snapshots within a single AWS Console.
 * Managing capacity of storage and NAS, such as FreeNAS, NexentaStor and related activities such as Disk Mirroring, scheduling jobs, etc.
 
-### Education
-B. Tech (IT) | PIET, Jaipur | 2007 – 2011
-HSC Science | Hindustani Kendriya Vidyalaya | 2006 – 2007
-SSC | BRCM Public School | 2003 – 2004
+
 
 
 Here are some ideas to get you started:
