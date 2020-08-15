@@ -3,6 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Varun&nbsp;Chandak-1ca0f1?style=flat&labelColor=black&logo=twitter&logoColor=blue&link=https://twitter.com/kintuparantu)](https://twitter.com/kintuparantu)
 [![Linkedin Badge](https://img.shields.io/badge/-Varun%20Chandak-blue?style=flat&labelColor=white&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chandakvarun/)](https://www.linkedin.com/in/chandakvarun/) 
 [![Github Badge](https://img.shields.io/github/followers/varunchandak?label=varunchandak&logo=github&style=flat)](https://github.com/varunchandak)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2732674?label=stackoverflow&logo=stackoverflow)
 [![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/)
 
 ## About Me
@@ -21,6 +22,14 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/slack.png" width="30px" alt="Slack">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/google.png" width="30px" alt="Google">
 
+---
+## Certifications
+<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/1.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/2.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/3.png" width="auto" height="100"><br>
+<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/4.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/5.png" width="auto" height="100"><br>
+<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/6.png" width="auto" height="100"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/7.png" width="auto" height="100"><br>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="auto" height="100">
+
+
 <!--
 
 ---
@@ -31,13 +40,6 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 
 
 
----
-## Certifications
-### AWS
-<img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/certs/aws-certification-badges-v1.png" width="auto" height="300">
-
-### GCP
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="174" height="174">
 
 
 
