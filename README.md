@@ -86,6 +86,11 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RDS Authentication via IAM User/Role](https://vrnchndk.in/2019/05/01/RDS-Authentication-via-IAM-User-Role/)
+- [Auto update ASG with latest image and launch config](https://vrnchndk.in/2019/04/06/Auto-update-ASG-with-latest-image-and-launch-config/)
+- [NFS Failover with DRBD and Heartbeat on AWS EC2](https://vrnchndk.in/2018/11/28/NFS-Failover-with-DRBD-and-Heartbeat-on-AWS-EC2/)
+- [AMI Backups and Retention using AWS Lambda](https://vrnchndk.in/2018/08/04/AMI-Backups-and-Retention-using-AWS-Lambda/)
+- [The actual Memory Usage on Linux](https://vrnchndk.in/2018/01/15/The-actual-Memory-Usage-on-Linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
