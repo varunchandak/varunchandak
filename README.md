@@ -84,7 +84,7 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 [![Top Langs](https://gitstats.vrnchndk.in/api/top-langs/?username=varunchandak)](https://github.com/varunchandak/github-readme-stats)
 
 
-## Blog posts
+## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
