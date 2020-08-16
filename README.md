@@ -22,7 +22,7 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/jenkins.png" align="center" width="40px" title="Jenkins">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/elk.png" align="center" width="40px" title="ELK"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/newrelic.svg" align="center" width="40px" title="New Relic">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/docker.svg" align="center" width="40px" title="Docker">
-* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/slack.png" align="center" width="40px" title="Slack">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/slack.svg" align="center" width="40px" title="Slack">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/google.png" align="center" width="40px" title="Google">
 
 ## Cloud Stack
