@@ -94,7 +94,7 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 <!-- BLOG-POST-LIST:END -->
 
 ## Hobbies
-<img align="center" width="40px" title="Table Tennis" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/table-tennis.svg"><img align="center" width="40px" title="Gaming" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/gaming.svg"><img align="center" width="40px" title="Solving Puzzles" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/puzzles.svg"><img align="center" width="40px" title="Playing Cards" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/playing-cards.svg"><img align="center" width="40px" title="Reading Novels" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/novels.svg">
+<img align="center" width="50px" title="Table Tennis" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/table-tennis.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Gaming" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/gaming.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Solving Puzzles" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/puzzles.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Playing Cards" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/playing-cards.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Reading Novels" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/novels.svg">
 
 <!--
 
