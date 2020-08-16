@@ -93,6 +93,8 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 - [The actual Memory Usage on Linux](https://vrnchndk.in/2018/01/15/The-actual-Memory-Usage-on-Linux/)
 <!-- BLOG-POST-LIST:END -->
 
+## Hobbies
+<img align="center" width="40px" title="Table Tennis" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/table-tennis.svg"><img align="center" width="40px" title="Gaming" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/gaming.svg"><img align="center" width="40px" title="Solving Puzzles" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/puzzles.svg"><img align="center" width="40px" title="Playing Cards" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/playing-cards.svg"><img align="center" width="40px" title="Reading Novels" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/novels.svg">
 
 <!--
 
@@ -102,8 +104,6 @@ a
 ## Soft Skills
 a
 
-## Hobbies
-a
 ---
 
 ## Experience
