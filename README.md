@@ -1,4 +1,4 @@
-# Hey there, I am Varun ! <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hi.gif" title="Hello!" width="40px">
+# Hey there, I am Varun ! <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hi.gif?maxAge=86400" title="Hello!" width="40px">
 
 [![Twitter Badge](https://img.shields.io/badge/-@Varun&nbsp;Chandak-1ca0f1?style=flat&labelColor=black&logo=twitter&logoColor=blue&link=https://twitter.com/kintuparantu)](https://twitter.com/kintuparantu)
 [![Linkedin Badge](https://img.shields.io/badge/-Varun%20Chandak-blue?style=flat&labelColor=white&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chandakvarun/)](https://www.linkedin.com/in/chandakvarun/) 
