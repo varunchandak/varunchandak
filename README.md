@@ -96,13 +96,15 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 ## Hobbies
 <img align="center" width="50px" title="Table Tennis" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/table-tennis.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Gaming" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/gaming.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Solving Puzzles" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/puzzles.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Playing Cards" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/playing-cards.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Reading Novels" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/novels.svg">
 
+## Soft Skills
+<img align="center" width="50px" title="Strong Debugging Skills" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/debugger.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Quick Learner" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/quick-learner.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Proactive Team Player" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/team-player.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Fluent in English" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/english.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Fluent in Hindi" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/hindi.svg">
+
 <!--
 
 ## What do I do ?
 a
 
-## Soft Skills
-a
+
 
 ---
 
