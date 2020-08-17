@@ -14,14 +14,14 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 ---
 
 ## Tech Stack
-* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ubuntu.png" align="center" width="40px" title="Ubuntu"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/centos.png" align="center" width="40px" title="CentOS"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/redhat.png" align="center" width="40px" title="RedHat"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/windows.svg" align="center" width="40px" title="Windows">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ubuntu.png?maxAge=86400" align="center" width="40px" title="Ubuntu"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/centos.png" align="center" width="40px" title="CentOS"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/redhat.png" align="center" width="40px" title="RedHat"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/windows.svg" align="center" width="40px" title="Windows">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/bash.png" align="center" width="40px" title="Bash">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/github.png" align="center" width="40px" title="Github">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/ansible.png" align="center" width="40px" title="Ansible">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/terraform.png" align="center" width="40px" title="Terraform">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/jenkins.png" align="center" width="40px" title="Jenkins">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/elk.png" align="center" width="40px" title="ELK"><img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/newrelic.svg" align="center" width="40px" title="New Relic">
-* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/docker.svg" align="center" width="40px" title="Docker">
+* <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/docker.svg?maxAge=86400" align="center" width="40px" title="Docker">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/slack.svg" align="center" width="40px" title="Slack">
 * <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/tech-stack/google.png" align="center" width="40px" title="Google">
 
