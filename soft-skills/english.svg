@@ -1,1 +1,6 @@
-<svg style="font-size:110px" height="100pt" width="251pt"><text x="0" y="100" fill="black">English</text></svg>
+<svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .heavy { font: bold 30px sans-serif; }
+  </style>
+  <text x="0" y="35" class="heavy">English</text>
+</svg>
