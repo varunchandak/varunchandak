@@ -78,6 +78,52 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 | Higher Secondary Certificate (Science) | Hindustani Kendriya Vidyalaya, Guwahati, Assam | 2006 – 2007 |
 | Secondary School Certificate | BRCM Public School, Bahl, Haryana | 2003 – 2004 |
 
+## Experience
+### [CloudCover Consultancy Pvt. Ltd.](https://cldcvr.com)
+
+**Senior DevOps Engineer** (March 2018 – Present)
+
+**Responsibilities**:
+
+* Working on different cloud environments, such as AWS and GCP.
+* Automations focussed heavily on cloud using **Cloud CLI/SDK/API**
+* Collaborate with different teams and other contributors to **ensure compliance and risk management**.
+* Implementing **security best practices** on AWS and GCP, adhering to the shared responsibility model of public clouds.
+* Performing **Auditing** and **Security Assessments**, not limited to AWS or GCP.
+* **Design and architect solutions** for clients to solve business problems in a cloud environment.
+* Performing various **proofs -of- concepts scenarios** for distinct client requirements.
+* Architecting solutions on cloud and implementing **secure, automated, scalable** and **highly available** infrastructure as a hybrid cloud implementation while working with the team to ensure delivery.
+* Performing high level **cost optimization** activities on cloud to reduce expenditure by substantial difference.
+* Creating parameterized infrastructure as code for clients for easier deployment and scaling of infrastructure resulting in the redeployment of any environment with rapid turnaround time using **Terraform** or **CloudFormation**
+* **Migrating from on-premises/private cloud** to AWS/GCP cloud, coordinating with various teams to ensure minimal to zero downtime.
+* Implementing and managing monitoring, logging and alerting solutions using **AWS CloudWatch**, **Stackdriver**, and **Elastic Stack** enabling us to quickly resolve any issue and create RCA for the same.
+* Implementing self healing environments by leveraging native cloud services such as **CloudWatch Alarms**, **autoscaling groups** and custom scripts.
+* Creation of project **documentation**, presentations, blogs.
+* Interactive Messaging and ChatOps using **Slack**.
+
+**DevOps Engineer** (February 2016 – February 2018)
+
+**Responsibilities**:
+
+* Managing 500+ Linux Servers remotely.
+* Working on different cloud environments, such as AWS and GCP.
+* Handling **network infrastructure** of different clients on cloud platform.
+* Working with **AWS CLI** and Shell Scripts to automate tasks.
+* Regularly create and implement shell scripts to automate processes as per requirements.
+* Knowledge Transfer on new technologies or tools and shell programs developed.
+* Client interaction to setup cloud infrastructure with proper access policies, network configuration and compute power.
+* **CI/CD** management using **Jenkins**.
+* Configuration and deployment management using **Ansible**.
+* Using **GitHub** to maintain repositories to collaborate and version control.
+* Infrastructure management using **Terraform/CloudFormation**.
+* Manage and coordinate with team on deployments and meetings.
+* Creation of project documentation, presentations, blogs.
+
+---
+
+
+
+
 ## My Github Stats
 ![My Github Stats](https://gitstats.vrnchndk.in/api?username=varunchandak&count_private=true&show_icons=true)
 
@@ -104,33 +150,13 @@ Professional Cloud and DevOps Engineer having extensive experience on cloud tech
 ## What do I do ?
 a
 
+### Mithi Software Technologies Pvt. Ltd.
 
+Pune, Maharashtra
 
----
+(May 2013 – January 2016)  
 
-## Experience
-**CloudCover Consultancy Pvt. Ltd.**, Pune, Maharashtra (February 2016 – )  
-**Designation**: Senior DevOps Engineer
-
-Roles and Responsibilities:
-* Working on different cloud environments, such as AWS and GCP.
-* Handling network infrastructure of different clients on cloud platform.
-* Working with AWS CLI and Shell Scripts to automate tasks.
-* Regularly create and implement shell scripts to automate processes as per requirements.
-* Knowledge Transfer on new technologies or tools and shell programs developed.
-* Using GitHub to maintain different repositories to collaborate on programs and different code blocks.
-* Client interaction to setup cloud infrastructure with proper access policies, network configuration and compute power.
-* CI/CD management using Jenkins.
-* Configuration and deployment management using Ansible.
-* Using GitHub to maintain repositories to collaborate and version control.
-* Working with AWS CLI and Shell Scripts to automate tasks.
-* Infrastructure management using Terraform/Cloudformation.
-* Manage and coordinate with team on deployments and meetings.
-
----
-
-**Mithi Software Technologies Pvt. Ltd.**, Pune, Maharashtra (May 2013 – January 2016)  
-**Designation**: Systems Engineer
+### Systems Engineer
 
 Roles and Responsibilities:  
 * Monitoring, Managing and Troubleshooting the network Infrastructure.  
@@ -145,6 +171,9 @@ Roles and Responsibilities:
 * Hands on experience on different monitoring tools such as PRTG, Nagios.
 * Handling multiple instances, volumes and snapshots within a single AWS Console.
 * Managing capacity of storage and NAS, such as FreeNAS, NexentaStor and related activities such as Disk Mirroring, scheduling jobs, etc.
+
+---
+
 
 
 
