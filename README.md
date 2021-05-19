@@ -97,8 +97,6 @@ DevOps | Solution Designing | DevSecOps | Automation
 * awless (deprecated)
 * Spotinst
 
-
-
 ## Cloud Stack
 ### Security
 * AWS Certificate Manager
@@ -263,8 +261,10 @@ DevOps | Solution Designing | DevSecOps | Automation
 | Qualification | Institution | Year |
 |   --  |   --  |   --  |
 | B. Tech (Information Technology) | PIET, Jaipur, Rajasthan | 2007 - 2011 |
-| Higher Secondary Certificate (Science) | Hindustani Kendriya Vidyalaya, Guwahati, Assam | 2006 – 2007 |
-| Secondary School Certificate | BRCM Public School, Bahl, Haryana | 2003 – 2004 |
+
+[comment]: <> (| Higher Secondary Certificate &#40;Science&#41; | Hindustani Kendriya Vidyalaya, Guwahati, Assam | 2006 – 2007 |)
+
+[comment]: <> (| Secondary School Certificate | BRCM Public School, Bahl, Haryana | 2003 – 2004 |)
 
 ## Experience
 ### [CloudCover Consultancy Pvt. Ltd.](https://cldcvr.com)
