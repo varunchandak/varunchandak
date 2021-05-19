@@ -268,8 +268,9 @@ DevOps | Solution Designing | DevSecOps | Automation
 
 ## Experience
 ### [CloudCover Consultancy Pvt. Ltd.](https://cldcvr.com)
-
-#### Senior DevOps Engineer (April 2018 – Present)
+#### Senior DevOps Engineer
+* Full Time 
+* April 2018 – Present
 
 **Responsibilities**:
 
@@ -314,9 +315,9 @@ DevOps | Solution Designing | DevSecOps | Automation
 * Handling multiple instances, volumes and snapshots within a single AWS Console.
 * Working with AWS CLI and shell scripts to automate repetitive tasks, thereby reducing manual effort.
 
-### Project Details
+#### Project Details
 
-#### Video Rendering on AWS
+##### Video Rendering on AWS
 
 * This was for the leading video rendering and visual effects studio
 * Used multiple **c4.8xlarge** instances for rendering purposes.
@@ -324,7 +325,7 @@ DevOps | Solution Designing | DevSecOps | Automation
 * **Tools:** Thinkbox Deadline, Aspera, Maya
 * **Technologies:** Shell Scripting, AWS
 
-#### Streaming Service on AWS
+##### Streaming Service on AWS
 
 * This is for Asia’s leading video streaming service.
 * Multiple monolithic services containerized on AWS.
@@ -337,7 +338,7 @@ DevOps | Solution Designing | DevSecOps | Automation
 * **Tools:** Jenkins, Slack.
 * **Technologies**: Shell Scripting, Python, AWS, NodeJS.
 
-#### Migration from DC to Google Compute Platform
+##### Migration from DC to Google Compute Platform
 
 * This is for an Indian diversified financial services company headquartered in Mumbai.
 * The goal was to migrate core infrastructure and multiple websites from on-premise DC to Google Cloud.
@@ -348,14 +349,14 @@ DevOps | Solution Designing | DevSecOps | Automation
 * **Tools:** Ansible.
 * **Technologies**: Shell Scripting
 
-#### Mixed environments on AWS
+##### Mixed environments on AWS
 
 * This is for a company that is known for having a significant prominence in Indian retail and fashion sectors, with popular supermarket chains.
 * Different environments as per teams and applications.
 * **Tools:** Ansible, CloudFormation, Terraform.
 * **Technologies**: Shell Scripting
 
-#### Implementing zero-trust applications in CloudCover
+##### Implementing zero-trust applications in CloudCover
 
 * Leveraging Cloud Identity and Google Workspace, various applications that follow zero-trust principle and SAML 2.0 protocols have been set up so that access control is tied to the individual. Some examples:
   * AWS SSO with Google Workspace
@@ -363,19 +364,24 @@ DevOps | Solution Designing | DevSecOps | Automation
   * Traildash (Centralized Elastic Stack for CloudTrail logs)
   * DevOps Jenkins Automation Box
 
-#### Active participation in ISO 27001 Audit
+##### Active participation in ISO 27001 Audit
 
 * Handled **Access Control** component of ISO audit in which we had to showcase different types of access control mechanisms ranging from different applications, softwares and cloud.
 * Handled **Organization of Information Security** aspect of ISO audit.
 
-#### Working in tandem with sister companies for regular security audits
+##### Working in tandem with sister companies for regular security audits
 
 * Regular VA/PT of production servers in AWS
 * Regular assessment of production accounts for any vulnerability on AWS
 
+---
+
 ### [Mithi Software Technologies Pvt. Ltd.](https://www.mithi.com/)
 
-#### Linux Support Engineer (May 2013 – Jan 2016)
+#### Linux Support Engineer
+
+* Full Time
+* May 2013 – Jan 2016
 
 **Responsibilities**:
 
@@ -393,6 +399,9 @@ DevOps | Solution Designing | DevSecOps | Automation
   and handling emergencies.
 
 #### Systems Engineer, Kaizen Team, Research and Development Department (May 2013 – Jan 2016)
+
+* Full Time
+* May 2013 – Jan 2016
 
 **Responsibilities**:
 
@@ -415,15 +424,13 @@ DevOps | Solution Designing | DevSecOps | Automation
 * Motif INC.
 * South Indian Bank.
 
-
-
----
-
 ## Hobbies
 <img align="center" width="50px" title="Table Tennis" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/table-tennis.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Gaming" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/gaming.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Solving Puzzles" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/puzzles.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Playing Cards" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/playing-cards.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Reading Novels" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/novels.svg">
 
 ## Soft Skills
 <img align="center" width="50px" title="Strong Debugging Skills" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/debugger.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Quick Learner" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/quick-learner.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Proactive Team Player" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/team-player.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Fluent in English" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/english.svg">&nbsp;&nbsp;<img align="center" width="20px" title="Fluent in Hindi" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/hindi.svg">
+
+---
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
