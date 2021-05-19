@@ -262,14 +262,14 @@ DevOps | Solution Designing | DevSecOps | Automation
 |   --  |   --  |   --  |
 | B. Tech (Information Technology) | PIET, Jaipur, Rajasthan | 2007 - 2011 |
 
-[comment]: <> (| Higher Secondary Certificate &#40;Science&#41; | Hindustani Kendriya Vidyalaya, Guwahati, Assam | 2006 – 2007 |)
+[comment]: <> "| Higher Secondary Certificate &#40;Science&#41; | Hindustani Kendriya Vidyalaya, Guwahati, Assam | 2006 – 2007 |"
 
-[comment]: <> (| Secondary School Certificate | BRCM Public School, Bahl, Haryana | 2003 – 2004 |)
+[comment]: <> "| Secondary School Certificate | BRCM Public School, Bahl, Haryana | 2003 – 2004 |"
 
 ## Experience
 ### [CloudCover Consultancy Pvt. Ltd.](https://cldcvr.com)
 
-**Senior DevOps Engineer** (March 2018 – Present)
+#### Senior DevOps Engineer (April 2018 – Present)
 
 **Responsibilities**:
 
@@ -289,23 +289,133 @@ DevOps | Solution Designing | DevSecOps | Automation
 * Creation of project **documentation**, presentations, blogs.
 * Interactive Messaging and ChatOps using **Slack**.
 
-**DevOps Engineer** (February 2016 – February 2018)
+#### DevOps Engineer (April 2017 – March 2018)
 
 **Responsibilities**:
 
-* Managing 500+ Linux Servers remotely.
-* Working on different cloud environments, such as AWS and GCP.
-* Handling **network infrastructure** of different clients on cloud platform.
-* Working with **AWS CLI** and Shell Scripts to automate tasks.
-* Regularly create and implement shell scripts to automate processes as per requirements.
-* Knowledge Transfer on new technologies or tools and shell programs developed.
-* Client interaction to setup cloud infrastructure with proper access policies, network configuration and compute power.
-* **CI/CD** management using **Jenkins**.
-* Configuration and deployment management using **Ansible**.
-* Using **GitHub** to maintain repositories to collaborate and version control.
-* Infrastructure management using **Terraform/CloudFormation**.
-* Manage and coordinate with team on deployments and meetings.
-* Creation of project documentation, presentations, blogs.
+* Coordinating with different teams on multiple clouds and automation projects.
+* Application Monitoring using tools such as Nagios, NewRelic, RunScope.
+* Managing AWS and GCP resources such as RDS, EC2.
+* Automated deployments using CI/CD tools such as Jenkins.
+* Source code management using Github
+* Deploy, monitor and secure cloud infrastructure multiple environments.
+* Assisting customers on migrating their application from premises to cloud with unique solutions.
+* Responsible for designing and implementing noteworthy solutions as per client's requirements.
+* Strong analytical and problem-solving skills.
+
+#### SysOps Engineer (Feb 2016 – March 2017)
+
+**Responsibilities**:
+
+* Monitoring, Managing and Troubleshooting the Network Infrastructure.
+* Servers migration from on-premises to Amazon Web Services (AWS).
+* Hands on experience on different monitoring tools such as PRTG, Nagios.
+* Interact effectively with members of the various technical teams within the organization.
+* Handling multiple instances, volumes and snapshots within a single AWS Console.
+* Working with AWS CLI and shell scripts to automate repetitive tasks, thereby reducing manual effort.
+
+### Project Details
+
+#### Video Rendering on AWS
+
+* This was for the leading video rendering and visual effects studio
+* Used multiple **c4.8xlarge** instances for rendering purposes.
+* Using shared storage for rendering output.
+* **Tools:** Thinkbox Deadline, Aspera, Maya
+* **Technologies:** Shell Scripting, AWS
+
+#### Streaming Service on AWS
+
+* This is for Asia’s leading video streaming service.
+* Multiple monolithic services containerized on AWS.
+* Terraform was used to setup new service.
+* Jenkins is used to create docker images and deploy on registry.
+* Automated deployments using Slack and Jenkins integration.
+* Periodic optimizations and resizing activity with minimal downtime.
+* Periodic security audits to fix and mitigate any security loopholes.
+* Periodic OS patching to fix and mitigate any vulnerabilities.
+* **Tools:** Jenkins, Slack.
+* **Technologies**: Shell Scripting, Python, AWS, NodeJS.
+
+#### Migration from DC to Google Compute Platform
+
+* This is for an Indian diversified financial services company headquartered in Mumbai.
+* The goal was to migrate core infrastructure and multiple websites from on-premise DC to Google Cloud.
+* The migration included successfully setting up Windows Server Failover Clustering.
+* Periodic optimizations and resizing activity with minimal downtime.
+* Periodic security audits to fix and mitigate any security loopholes.
+* Periodic OS patching to fix and mitigate any vulnerabilities.
+* **Tools:** Ansible.
+* **Technologies**: Shell Scripting
+
+#### Mixed environments on AWS
+
+* This is for a company that is known for having a significant prominence in Indian retail and fashion sectors, with popular supermarket chains.
+* Different environments as per teams and applications.
+* **Tools:** Ansible, CloudFormation, Terraform.
+* **Technologies**: Shell Scripting
+
+#### Implementing zero-trust applications in CloudCover
+
+* Leveraging Cloud Identity and Google Workspace, various applications that follow zero-trust principle and SAML 2.0 protocols have been set up so that access control is tied to the individual. Some examples:
+  * AWS SSO with Google Workspace
+  * CldCvr HR Portal
+  * Traildash (Centralized Elastic Stack for CloudTrail logs)
+  * DevOps Jenkins Automation Box
+
+#### Active participation in ISO 27001 Audit
+
+* Handled **Access Control** component of ISO audit in which we had to showcase different types of access control mechanisms ranging from different applications, softwares and cloud.
+* Handled **Organization of Information Security** aspect of ISO audit.
+
+#### Working in tandem with sister companies for regular security audits
+
+* Regular VA/PT of production servers in AWS
+* Regular assessment of production accounts for any vulnerability on AWS
+
+### [Mithi Software Technologies Pvt. Ltd.](https://www.mithi.com/)
+
+#### Linux Support Engineer (May 2013 – Jan 2016)
+
+**Responsibilities**:
+
+* Monitoring, Managing and Troubleshooting the Network Infrastructure.
+* Remote Installation, Deployment, Reconfiguration of product ConnectXF (MCS) on Linux
+  platform, configuring, monitoring and testing of Email Servers for spectrum of clients.
+* Configuring servers for Mithi Hosted Email services and Addressing the performance
+  bottleneck and ensuring maximum Network and Server uptime.
+* Delivering Monthly Technical Face-to-Face Training Sessions for clients In-Premise.
+* Preparing the remote client-site in typical Distributed Multi-Server Email system.
+
+**Additional Responsibilities:**
+
+* Actively Assisting as a part of Mithi Support in providing 24×7 remote Support to clients
+  and handling emergencies.
+
+#### Systems Engineer, Kaizen Team, Research and Development Department (May 2013 – Jan 2016)
+
+**Responsibilities**:
+
+* Employing new technologies to solve difficult problems and issues using given set of skills.
+* Building and delivering stable, serviceable solutions in an independent fashion in regards with the company's requirements.
+* Interact effectively with members of the various technical teams within the organization.
+* Hands on experience on different monitoring tools such as PRTG, Nagios.
+* Servers migration from hardware to cloud on Amazon Web Services (AWS).
+* Handling multiple instances, volumes and snapshots within a single AWS Console.
+* Managing capacity of storage and NAS, such as FreeNAS, NexentaStor and related activities such as Disk Mirroring, scheduling jobs, etc.
+
+**Deployed Projects (clients)**:
+
+* SBI Life
+* Vibatel Solutions
+* Mahindra Swaraj
+* Karnataka Bank
+* Linkwell
+* O Source
+* Motif INC.
+* South Indian Bank.
+
+
 
 ---
 
@@ -315,49 +425,4 @@ DevOps | Solution Designing | DevSecOps | Automation
 ## Soft Skills
 <img align="center" width="50px" title="Strong Debugging Skills" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/debugger.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Quick Learner" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/quick-learner.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Proactive Team Player" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/team-player.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Fluent in English" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/english.svg">&nbsp;&nbsp;<img align="center" width="20px" title="Fluent in Hindi" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/hindi.svg">
 
-<!--
 
-## What do I do ?
-a
-
-### Mithi Software Technologies Pvt. Ltd.
-
-Pune, Maharashtra
-
-(May 2013 – January 2016)  
-
-### Systems Engineer
-
-Roles and Responsibilities:  
-* Monitoring, Managing and Troubleshooting the network Infrastructure.  
-* Interact effectively with members of the various technical teams within the organization.  
-* Servers migration from hardware to cloud on Amazon Web Services (AWS).  
-* Working with AWS CLI and Shell Scripts to automate tasks.
-* Configuring servers for hosted email services.
-* Addressing the performance bottleneck and ensuring maximum network and Server uptime.
-* Migrating servers from on-premises to Amazon Web Services (AWS).
-* Employing new technologies to solve difficult problems and issues using given set of skills.
-* Building and delivering stable, serviceable solutions in an independent fashion in regards with the company's requirements.
-* Hands on experience on different monitoring tools such as PRTG, Nagios.
-* Handling multiple instances, volumes and snapshots within a single AWS Console.
-* Managing capacity of storage and NAS, such as FreeNAS, NexentaStor and related activities such as Disk Mirroring, scheduling jobs, etc.
-
----
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
