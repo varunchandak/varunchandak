@@ -290,7 +290,9 @@ DevOps | Solution Designing | DevSecOps | Automation
 * Creation of project **documentation**, presentations, blogs.
 * Interactive Messaging and ChatOps using **Slack**.
 
-#### DevOps Engineer (April 2017 – March 2018)
+#### DevOps Engineer
+* Full Time 
+* April 2017 – March 2018
 
 **Responsibilities**:
 
@@ -304,7 +306,9 @@ DevOps | Solution Designing | DevSecOps | Automation
 * Responsible for designing and implementing noteworthy solutions as per client's requirements.
 * Strong analytical and problem-solving skills.
 
-#### SysOps Engineer (Feb 2016 – March 2017)
+#### SysOps Engineer
+* Full Time 
+* Feb 2016 – March 2017
 
 **Responsibilities**:
 
