@@ -425,4 +425,13 @@ DevOps | Solution Designing | DevSecOps | Automation
 ## Soft Skills
 <img align="center" width="50px" title="Strong Debugging Skills" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/debugger.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Quick Learner" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/quick-learner.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Proactive Team Player" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/team-player.svg">&nbsp;&nbsp;<img align="center" width="50px" title="Fluent in English" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/english.svg">&nbsp;&nbsp;<img align="center" width="20px" title="Fluent in Hindi" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/soft-skills/hindi.svg">
 
+## 📕 Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [WSL2 with Windows Terminal and syncing with Mac OSX](https://vrnchndk.in/2020/08/29/WSL2-with-Windows-Terminal-and-syncing-with-Mac-OSX/)
+- [RDS Authentication via IAM User/Role](https://vrnchndk.in/2019/05/01/RDS-Authentication-via-IAM-User-Role/)
+- [Auto update ASG with latest image and launch config](https://vrnchndk.in/2019/04/06/Auto-update-ASG-with-latest-image-and-launch-config/)
+- [NFS Failover with DRBD and Heartbeat on AWS EC2](https://vrnchndk.in/2018/11/28/NFS-Failover-with-DRBD-and-Heartbeat-on-AWS-EC2/)
+- [AMI Backups and Retention using AWS Lambda](https://vrnchndk.in/2018/08/04/AMI-Backups-and-Retention-using-AWS-Lambda/)
+<!-- BLOG-POST-LIST:END -->
+
 
