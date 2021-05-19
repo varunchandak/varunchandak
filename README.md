@@ -402,7 +402,7 @@ DevOps | Solution Designing | DevSecOps | Automation
 * Actively Assisting as a part of Mithi Support in providing 24×7 remote Support to clients
   and handling emergencies.
 
-#### Systems Engineer, Kaizen Team, Research and Development Department (May 2013 – Jan 2016)
+#### Systems Engineer, Kaizen Team, R and D Department
 
 * Full Time
 * May 2013 – Jan 2016
