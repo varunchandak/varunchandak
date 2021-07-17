@@ -268,9 +268,13 @@ DevOps | Solution Designing | DevSecOps | Automation
 
 ## Experience
 ### [CloudCover Consultancy Pvt. Ltd.](https://cldcvr.com)
+#### Lead - DevSecOps
+* Full Time 
+* July 2021 - Present
+
 #### Senior DevOps Engineer
 * Full Time 
-* April 2018 – Present
+* April 2018 – July 2021
 
 **Responsibilities**:
 
