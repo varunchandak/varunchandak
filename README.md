@@ -93,10 +93,6 @@ DevOps | Solution Designing | DevSecOps | Automation
 * Lucidchart Enterprise
 * Github
 
-### Miscellaneous Tools and Solutions
-* awless (deprecated)
-* Spotinst
-
 ## Cloud Stack
 ### Security
 * AWS Certificate Manager
