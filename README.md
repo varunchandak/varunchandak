@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Varun&nbsp;Chandak-1ca0f1?style=flat&labelColor=black&logo=twitter&logoColor=blue&link=https://twitter.com/kintuparantu)](https://twitter.com/kintuparantu)
 [![Linkedin Badge](https://img.shields.io/badge/-Varun%20Chandak-blue?style=flat&labelColor=white&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chandakvarun/)](https://www.linkedin.com/in/chandakvarun/) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&labelColor=white&logoColor=red&link=mailto:noreply@vrnchndk.in)](mailto:noreply@vrnchndk.in)
+[![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&labelColor=white&logoColor=red&link=mailto:noreply@vrnchndk.in)](mailto:contact@vrnchndk.in)
 [![Github Badge](https://img.shields.io/github/followers/varunchandak?label=varunchandak&logo=github&style=flat)](https://github.com/varunchandak)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2732674?label=stackoverflow&logo=stackoverflow)
 [![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/)
