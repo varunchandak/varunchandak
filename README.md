@@ -13,7 +13,7 @@ Self driven professional cloud engineer and enthusiast with an experience of ~7 
 ---
 
 ## Domain
-DevOps | Solution Designing | DevSecOps | Automation
+AWS | GCP | Azure | DevOps | Security | DevSecOps | Automation
 
 ---
 
