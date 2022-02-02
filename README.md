@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&labelColor=white&logoColor=red&link=mailto:noreply@vrnchndk.in)](mailto:contact@vrnchndk.in)
 [![Github Badge](https://img.shields.io/github/followers/varunchandak?label=varunchandak&logo=github&style=flat)](https://github.com/varunchandak)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2732674?label=stackoverflow&logo=stackoverflow)
-[![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/)
+[![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=varunchandak.varunchandak)
 
 ## About Me
 Self driven professional cloud engineer and enthusiast with an experience of ~7 years in the IT industry, having extensive experience on cloud technologies and strong Linux skills with strong experience in Bash Scripting and a strong ability to work with minimal supervision. Always looking forward to gaining experience on new technologies while presenting myself with new challenges that expand upon my established skill set.
