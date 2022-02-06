@@ -8,7 +8,7 @@
 [![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=varunchandak.varunchandak)
 
 ## About Me
-Self driven professional cloud engineer and enthusiast with an experience of ~7 years in the IT industry, having extensive experience on cloud technologies and strong Linux skills with strong experience in Bash Scripting and a strong ability to work with minimal supervision. Always looking forward to gaining experience on new technologies while presenting myself with new challenges that expand upon my established skill set.
+DevOps and Cloud Security engineer with strong problem-solving skills and demonstrated competence in automating and securing cloud infrastructure, with a focus on leveraging the cloud's capabilities while ensuring high availability, scalability, security, and a good user experience with low financial impact.
 
 ---
 
@@ -267,6 +267,15 @@ AWS | GCP | Azure | DevOps | Security | DevSecOps | Automation
 #### Lead - DevSecOps
 * Full Time 
 * July 2021 - Present
+
+**Responsibilities**:
+
+* Experience in creating a team from scratch, defining its charter, providing guidance and growing careers of the team members.
+* Explore and implement new technologies for cloud platforms, software configuration and deployment, and security.
+* Find innovative ways to speed up or synchronize processes, making them more seamless. Design and build extremely reliable, scalable and high performing enterprise systems.
+* Discovering restrictions in the infrastructure and software environment that reduce the effectiveness of the process.
+* Experience in the development of a roadmap for the evolution of the architecture for customers, planning, and integration of legacy environments into a transformed environment.
+* Understand the requirements for CI/CD to design a comprehensive solution for clients, Product Managers, IT team, Operations team and other business requirement owners.
 
 #### Senior DevOps Engineer
 * Full Time 
