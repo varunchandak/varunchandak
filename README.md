@@ -252,6 +252,9 @@ AWS | GCP | Azure | DevOps | Security | DevSecOps | Automation
 <br>
 <a href="https://www.credential.net/e626bee3-4154-48e0-aa45-b009fde5c836"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12940855" width="auto" height="100" title="Associate Cloud Engineer"></a>
 <br>
+<br>
+<a href="https://www.credly.com/badges/1acbdc4f-fed6-4480-aa7c-c18f5f8e2176/public_url"><img src="./certs/sc-900-badge.png" width="auto" height="100" title="Microsoft Certified: Security, Compliance, and Identity Fundamentals"></a>
+<br>
 
 ## Education
 | Qualification | Institution | Year |
