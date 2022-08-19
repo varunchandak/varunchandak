@@ -6,7 +6,10 @@
 [![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=varunchandak.varunchandak)
 
 ## About Me
-DevOps and Cloud Security engineer with strong problem-solving skills and demonstrated competence in automating and securing cloud infrastructure, with a focus on leveraging the cloud's capabilities while ensuring high availability, scalability, security, and a good user experience with low financial impact.
+DevOps and Cloud Security professional with strong analytical skills and competence in automation and multi cloud infrastructure, with a focus on leveraging the cloud's capabilities while ensuring high availability and scalability. Capable of defining multi-cloud security architectural direction, vision, and guiding principles to align with the organization's strategy and long term vision. Dynamic, results-oriented individual with a strong track record of performance providing technical, strategic and operational leadership in uniquely challenging situations. Offering 9+ years of experience in uniquely complex environments.
+
+The ability of employees to understand customer issues, assess the best approach to solving them, and then work until the effective and efficient solutions are identified is a crucial advantage in today's global cloud industry. I've honed the ability to think and act from this perspective throughout the years.
+
 
 ---
 
