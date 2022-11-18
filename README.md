@@ -1,6 +1,6 @@
 # Hey there, I am Varun ! <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hi.gif" title="Hello!" width="20px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Chandak-blue?style=flat&labelColor=white&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/vrnchndk)](www.linkedin.com/in/vrnchndk) 
+[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Chandak-blue?style=flat&labelColor=white&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/vrnchndk/)](www.linkedin.com/in/vrnchndk/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&labelColor=white&logoColor=red&link=mailto:noreply@vrnchndk.in)](mailto:contact@vrnchndk.in)
 [![Github Badge](https://img.shields.io/github/followers/varunchandak?label=varunchandak&logo=github&style=flat)](https://github.com/varunchandak)
 [![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=varunchandak.varunchandak)
