@@ -1,3 +1,53 @@
+<h1 align="center">Hi 👋, I'm Varun Chandak</h1>
+<h3 align="center">Cloud Security and Automation buff</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunchandak&label=Profile%20views&color=0e75b6&style=flat" alt="varunchandak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunchandak" alt="varunchandak" /></a> </p>
+<img align="right" alt="Coding" width="400" src="./coder.gif">
+
+<p align="left"> <a href="https://twitter.com/kintuparantu" target="blank"><img src="https://img.shields.io/twitter/follow/kintuparantu?logo=twitter&style=for-the-badge" alt="kintuparantu" /></a> </p>
+
+- 🌱 I’m currently learning **Azure and Custom integrations between SaaS applications**
+
+- 👨‍💻 All of my projects are available [here](https://github.com/varunchandak?tab=repositories)
+
+- 📝 I sometimes write articles on [my blog](https://blog.vrnchndk.in)
+
+- 💬 Ask me about **AWS, GCP, DevOps, Cloud Security**
+
+- 📫 Reach me at **contact@vrnchndk.in**
+
+- 📄 Know about my experiences [in my profile](https://vrnchndk.in)
+
+- ⚡ Fun fact: **I have a knack in resolving technical issues to completion.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kintuparantu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kintuparantu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vrnchndk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrnchndk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2732674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2732674" height="30" width="40" /></a>
+<a href="/https://blog.vrnchndk.in/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.vrnchndk.in/atom.xml" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunchandak&show_icons=true&locale=en&layout=compact" alt="varunchandak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunchandak&show_icons=true&locale=en" alt="varunchandak" /></p>
+
+<!--
+---
+
+---
+
+
 # Hey there, I am Varun ! <img src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hi.gif" title="Hello!" width="20px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Varun%20Chandak-blue?style=flat&labelColor=white&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vrnchndk/)](https://www.linkedin.com/in/vrnchndk/) 
@@ -6,12 +56,12 @@
 [![Blog](https://img.shields.io/badge/Blog-vrnchndk.in-blue.svg)](https://vrnchndk.in/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=varunchandak.varunchandak)
 
 ## About Me
-DevOps and Cloud Security professional with strong analytical skills and competence in automation and multi cloud infrastructure, with a focus on leveraging the cloud's capabilities while ensuring high availability and scalability. Capable of defining multi-cloud security architectural direction, vision, and guiding principles to align with the organization's strategy and long term vision. Dynamic, results-oriented individual with a strong track record of performance providing technical, strategic and operational leadership in uniquely challenging situations. Offering 9+ years of experience in uniquely complex environments.
-
-The ability of employees to understand customer issues, assess the best approach to solving them, and then work until the effective and efficient solutions are identified is a crucial advantage in today's global cloud industry. I've honed the ability to think and act from this perspective throughout the years.
-
+Experienced DevOps and Cloud Engineer professional with strong appetite for automation and security, with a focus on leveraging the cloud's capabilities such as high availability and scalability. Capable of defining multi-cloud security architectural direction and guiding principles to align with the organization's strategy and long term vision. Dynamic, results-oriented individual with a strong track record of performance providing technical, strategic and operational leadership in uniquely challenging situations. Offering 9+ years of experience in uniquely complex environments ranging from Linux servers setup to solutioning and architecting multi-tier cloud infrastructure.
 
 ---
+
+### Check out my resume at https://vrnchndk.in
+
 
 ## Domain
 AWS | GCP | Azure | DevOps | Security | DevSecOps | Automation
@@ -457,5 +507,3 @@ AWS | GCP | Azure | DevOps | Security | DevSecOps | Automation
 - [NFS Failover with DRBD and Heartbeat on AWS EC2](https://vrnchndk.in/2018/11/28/NFS-Failover-with-DRBD-and-Heartbeat-on-AWS-EC2/)
 - [AMI Backups and Retention using AWS Lambda](https://vrnchndk.in/2018/08/04/AMI-Backups-and-Retention-using-AWS-Lambda/)
 <!-- BLOG-POST-LIST:END -->
-
-
