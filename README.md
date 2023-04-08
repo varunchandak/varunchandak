@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing paywalled webpages](https://blog.vrnchndk.in/2023/04/08/Bypassing-paywalled-webpages/)
 - [WSL2 with Windows Terminal and syncing with Mac OSX](https://blog.vrnchndk.in/2020/08/29/WSL2-with-Windows-Terminal-and-syncing-with-Mac-OSX/)
 - [RDS Authentication via IAM User/Role](https://blog.vrnchndk.in/2019/05/01/RDS-Authentication-via-IAM-User-Role/)
 - [Auto update ASG with latest image and launch config](https://blog.vrnchndk.in/2019/04/06/Auto-update-ASG-with-latest-image-and-launch-config/)
 - [NFS Failover with DRBD and Heartbeat on AWS EC2](https://blog.vrnchndk.in/2018/11/28/NFS-Failover-with-DRBD-and-Heartbeat-on-AWS-EC2/)
-- [AMI Backups and Retention using AWS Lambda](https://blog.vrnchndk.in/2018/08/04/AMI-Backups-and-Retention-using-AWS-Lambda/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
