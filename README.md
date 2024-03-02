@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatically Organize Your Screenshots on Mac with launchd](https://blog.vrnchndk.in/2024/03/02/Automatically-Organize-Your-Screenshots-on-Mac-with-launchd/)
 - [SAML2.0 and OAuth2.0 Simplified](https://blog.vrnchndk.in/2023/08/09/SAML2-0-and-OAuth2-0-Simplified/)
 - [Bypassing paywalled webpages](https://blog.vrnchndk.in/2023/04/08/Bypassing-paywalled-webpages/)
 - [WSL2 with Windows Terminal and syncing with Mac OSX](https://blog.vrnchndk.in/2020/08/29/WSL2-with-Windows-Terminal-and-syncing-with-Mac-OSX/)
 - [RDS Authentication via IAM User/Role](https://blog.vrnchndk.in/2019/05/01/RDS-Authentication-via-IAM-User-Role/)
-- [Auto update ASG with latest image and launch config](https://blog.vrnchndk.in/2019/04/06/Auto-update-ASG-with-latest-image-and-launch-config/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
