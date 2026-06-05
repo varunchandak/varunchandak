@@ -50,6 +50,7 @@ AWS Security Specialty, AWS DevOps Engineer Professional, AWS Solutions Architec
 ## Links
 
 - Portfolio: [vrnchndk.in](https://vrnchndk.in)
+- Resume: [resume.vrnchndk.in](https://resume.vrnchndk.in)
 - Projects: [github.com/varunchandak?tab=repositories](https://github.com/varunchandak?tab=repositories)
 
 ---
