@@ -56,5 +56,5 @@ AWS Security Specialty, AWS DevOps Engineer Professional, AWS Solutions Architec
 ---
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varunchandak&theme=github" alt="Varun Chandak GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varunchandak&theme=github" alt="Varun Chandak GitHub profile summary" width="100%" />
 </p>
